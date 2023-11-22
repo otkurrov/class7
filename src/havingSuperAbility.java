@@ -1,0 +1,4 @@
+interface havingSuperAbility {
+    void applySuperAbility();
+
+}
